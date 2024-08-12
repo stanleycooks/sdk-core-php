@@ -1,5 +1,8 @@
 {
     "name": "stanleycooks/sdk-core-php",
+    "replace": {
+        "paypal/sdk-core-php": "3.4.0"
+    },    
     "description": "PayPal Core SDK for PHP",
     "keywords": ["paypal", "php", "sdk"],
     "type": "library",
